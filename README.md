@@ -21,7 +21,7 @@ The metrics collected are:
 
 ### 🔓 Before Hardening / Security Controls
 
-<!-- Uploading "322926658-efa182b3-afe3-46d6-b431-84fe61c1daff.png"... -->
+<img width="1468" height="831" alt="Image" src="https://github.com/user-attachments/assets/1c2e6c4f-8fd2-426c-b9e8-c3717c7e7cb7" />
 
 ### 🔒 After Hardening / Security Controls
 
