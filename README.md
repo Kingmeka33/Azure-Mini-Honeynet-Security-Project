@@ -49,6 +49,7 @@ The metrics collected are:
 <img width="707" height="404" alt="Image" src="https://github.com/user-attachments/assets/daf1212a-6f35-4d67-9c02-fb09c39d01dc" />
 
 ### 📈 After Hardening
+<img width="239" height="91" alt="Image" src="https://github.com/user-attachments/assets/e2df2135-dd82-4957-8ac8-6a196d643221" />
 
 > No attack map results — Sentinel detected **no malicious activity** during the hardened 24-hour period.
 
@@ -84,7 +85,7 @@ The metrics collected are:
 | `SecurityIncident`        | 0     |
 | `AzureNetworkAnalytics_CL`| 0     |
 
-![Metrics After Hardening](./images/metrics-after.png)
+<img width="793" height="206" alt="Image" src="https://github.com/user-attachments/assets/cf307fdf-650c-4f41-9c66-21545e6d178a" />
 
 ---
 
