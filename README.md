@@ -46,7 +46,7 @@ The metrics collected are:
 
 <img width="787" height="376" alt="Image" src="https://github.com/user-attachments/assets/faf47ca7-8abe-4dcf-b3d4-b8cd63bbcd0b" />
 <img width="670" height="391" alt="Image" src="https://github.com/user-attachments/assets/303be461-0d09-47c0-b769-8d8aba864436" />
-![Attack Map 3](./images/attackmap3.png)
+<img width="707" height="404" alt="Image" src="https://github.com/user-attachments/assets/daf1212a-6f35-4d67-9c02-fb09c39d01dc" />
 
 ### 📈 After Hardening
 
