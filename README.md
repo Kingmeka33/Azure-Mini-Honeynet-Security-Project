@@ -97,3 +97,20 @@ The metrics collected are:
 ```kql
 range x from 1 to 1 step 1
 | project StartTime = ago(24h), StopTime = now()
+SecurityEvent
+| where TimeGenerated >= ago(24h)
+| count
+Syslog
+| where TimeGenerated >= ago(24h)
+| count
+SecurityAlert
+| where DisplayName !startswith "CUSTOM" and DisplayName !startswith "TEST"
+| where TimeGenerated >= ago(24h)
+| count
+SecurityIncident
+| where TimeGenerated >= ago(24h)
+| count
+AzureNetworkAnalytics_CL
+| where FlowType_s == "MaliciousFlow" and AllowedInFlows_d > 0
+| where TimeGenerated >= ago(24h)
+| count
