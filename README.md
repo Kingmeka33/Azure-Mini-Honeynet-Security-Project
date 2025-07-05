@@ -21,7 +21,7 @@ The metrics collected are:
 
 ### 🔓 Before Hardening / Security Controls
 
-![Before Hardening Architecture](./images/architecture-before.png)
+<!-- Uploading "322926658-efa182b3-afe3-46d6-b431-84fe61c1daff.png"... -->
 
 ### 🔒 After Hardening / Security Controls
 
