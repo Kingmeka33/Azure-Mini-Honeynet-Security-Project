@@ -25,7 +25,7 @@ The metrics collected are:
 
 ### 🔒 After Hardening / Security Controls
 
-![After Hardening Architecture](./images/architecture-after.png)
+<img width="819" height="472" alt="Image" src="https://github.com/user-attachments/assets/f68d61e3-b55f-4d6a-84fe-a5661483d18a" />
 
 **Components:**
 
